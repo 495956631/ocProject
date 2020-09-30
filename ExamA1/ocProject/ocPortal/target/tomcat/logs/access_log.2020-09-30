@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [30/Sep/2020:19:31:13 +0800] "GET / HTTP/1.1" 302 - http-bio-80-exec-2 99
+0:0:0:0:0:0:0:1 - - [30/Sep/2020:19:31:13 +0800] "GET /auth/login.html HTTP/1.1" 200 4423 http-bio-80-exec-3 212
+0:0:0:0:0:0:0:1 - - [30/Sep/2020:19:31:13 +0800] "GET /res/css/bootstrap.min.css HTTP/1.1" 200 122540 http-bio-80-exec-4 4
+0:0:0:0:0:0:0:1 - - [30/Sep/2020:19:31:13 +0800] "GET /res/css/reset.css HTTP/1.1" 200 19629 http-bio-80-exec-1 12
+0:0:0:0:0:0:0:1 - - [30/Sep/2020:19:31:13 +0800] "GET /res/js/bootstrap.min.js HTTP/1.1" 200 36816 http-bio-80-exec-8 6
+0:0:0:0:0:0:0:1 - - [30/Sep/2020:19:31:13 +0800] "GET /res/js/jquery.form.js HTTP/1.1" 200 17009 http-bio-80-exec-7 10
+0:0:0:0:0:0:0:1 - - [30/Sep/2020:19:31:13 +0800] "GET /res/js/oc.min.js HTTP/1.1" 200 10636 http-bio-80-exec-9 6
+0:0:0:0:0:0:0:1 - - [30/Sep/2020:19:31:13 +0800] "GET /res/js/jquery-1.11.3.min.js HTTP/1.1" 200 95992 http-bio-80-exec-6 11
+0:0:0:0:0:0:0:1 - - [30/Sep/2020:19:31:13 +0800] "GET /res/i/logo.png HTTP/1.1" 200 1754 http-bio-80-exec-6 2
+0:0:0:0:0:0:0:1 - - [30/Sep/2020:19:31:14 +0800] "GET /tools/identiry/code.html HTTP/1.1" 200 1666 http-bio-80-exec-5 952
+0:0:0:0:0:0:0:1 - - [30/Sep/2020:19:31:14 +0800] "GET /res/i/ico.png HTTP/1.1" 200 1754 http-bio-80-exec-5 2
+0:0:0:0:0:0:0:1 - - [30/Sep/2020:19:31:42 +0800] "GET /tools/identiry/code.html?ticket=0.3197070526257335 HTTP/1.1" 200 1533 http-bio-80-exec-5 7
+0:0:0:0:0:0:0:1 - - [30/Sep/2020:19:31:43 +0800] "GET /tools/identiry/code.html?ticket=0.006926176837610765 HTTP/1.1" 200 1698 http-bio-80-exec-5 8
